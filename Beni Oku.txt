@@ -1,0 +1,6 @@
+Uygulama Visual Studio 2017 de yazýlmýþtýr.
+Dil olarak C# programlama kullanýlmýþtýr.
+Framework 4.64 tür.
+
+Boþ bir MVC projejesi açýlýp kontrollerin içerisine HomeController.cs 
+classýn kopyalandýðýnda uygulama çalýþacaktýr.
